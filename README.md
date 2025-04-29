@@ -26,4 +26,22 @@
 8. CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
 
 ### Database Design
+1. Users
+   Email address
+   Phone number
+   Properties
+   Rating
+   
+2. Properties
+   Price
+   Images
+   Aout
+   
+3. Bookings
+   Date
+   Number of guests
+   
+4. Reviews
+   
+5. Payments
 
