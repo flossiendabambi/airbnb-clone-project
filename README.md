@@ -83,3 +83,17 @@
    Prevent abuse and DDoS attacks by limiting:
    -Number of requests per IP per minute
    -Sensitive actions like login attempts
+
+### CI/CD Pipeline
+CI (Continuous Integration):
+   Automatically tests and builds your code every time you push changes.
+   Ensures that the code is always in a working state.
+
+CD (Continuous Deployment/Delivery):
+   Deploys the tested code to a server (staging or production) automatically or with minimal manual effort.
+
+CI/CD Is Important Because:
+   Catches bugs early and improves code quality
+   Speeds up development and deployment cycles
+   Reduces manual errors during builds and deployments
+   Ensures consistent environments and repeatable processes
