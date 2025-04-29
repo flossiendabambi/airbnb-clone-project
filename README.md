@@ -1,12 +1,29 @@
 # airbnb-clone-project
 
 
-### Airbnb clone project will imitate the original airbnb web app and follow all the design and code.
+## Airbnb clone project will imitate the original airbnb web app.
 
 ### Team Roles
-
-1. Front-end engineer
-   Designs the websites using HTML, CSS and JavaScript
    
-2. Back-end engineeer
+1. Back-end engineeer
    Develops the server side of the app and back-end logic.
+2. Database Administrator
+   Manages database design, indexing, and optimizations.
+3. DevOps Engineer
+   Handles deployment, monitoring, and scaling of the backend services.
+4. QA Engineer
+   Ensures the backend functionalities are thoroughly tested and meet quality standards.
+
+   
+### Technology Stack
+1. Django: A high-level Python web framework used for building the RESTful API.
+2. Django REST Framework: Provides tools for creating and managing RESTful APIs.
+3. PostgreSQL: A powerful relational database used for data storage.
+4. GraphQL: Allows for flexible and efficient querying of data.
+5. Celery: For handling asynchronous tasks such as sending notifications or processing payments.
+6. Redis: Used for caching and session management.
+7. Docker: Containerization tool for consistent development and deployment environments.
+8. CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+
+### Database Design
+
