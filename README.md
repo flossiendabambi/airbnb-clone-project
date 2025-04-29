@@ -69,3 +69,17 @@
    Indexing: Implement indexes for fast retrieval of frequently accessed data.
    Caching: Use caching strategies to reduce database load and improve performance.
 
+### API Security
+1. Authentication
+   To know who is accessing the API
+   
+2. Authorization
+   To restrict what users can do
+
+3. Input Validation and Sanitization
+   Sanitize input to avoid SQL injection
+
+4. Rate Limiting
+   Prevent abuse and DDoS attacks by limiting:
+   -Number of requests per IP per minute
+   -Sensitive actions like login attempts
